@@ -7,3 +7,7 @@ c = c*2
 
 print("hello")
 
+print('HELLO')
+print('HELLO')
+print('HELLO')
+print('HELLO')
